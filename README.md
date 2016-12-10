@@ -65,3 +65,4 @@ CHANGELOG:
     09.19.10 - added filetype transfer-excluding feature
     09.24.10 - fixed excludetypes error, discovered that log checking feature no longer works
     12.08.16 - changed the requirement of "http://tracker" to just "http://"
+    12.09.16 - swapped gtk2 icons for custom icons representing options to encode v0 v2 and 320
